@@ -3,3 +3,6 @@
 Practiced Docker Containers with some exercises.
 
 The hands-on practice made the theory click.
+
+
+<!-- formatting -->
