@@ -42,3 +42,6 @@ Working Directory → Staging Area → Repository
 - Good at building full features end-to-end
 - Works with Claude, GPT-4, and other models
 - Human-in-the-loop design (approve/reject each action)
+
+
+<!-- fixed typo -->
