@@ -13,3 +13,6 @@ opencode
 - Supports multiple LLM providers
 - File editing with diff preview
 - Session history
+
+
+<!-- updated examples -->
