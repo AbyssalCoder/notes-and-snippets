@@ -16,3 +16,11 @@ Topics covered today:
 - HTTP
 - REST APIs
 - GitHub Actions
+
+
+## Update — 2026-07-05
+
+Topics covered today:
+- GitHub Actions
+- Docker Networking
+- Caching
