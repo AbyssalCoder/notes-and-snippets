@@ -54,3 +54,9 @@ print(safe_divide(10, 0))
 ```
 
 `finally` always runs — useful for cleanup.
+
+## 2026-07-06
+
+Explored Array Traversal — here are my notes.
+
+Understanding the 'why' behind this made everything clearer.
