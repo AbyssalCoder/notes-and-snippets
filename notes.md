@@ -98,3 +98,18 @@ docker volume inspect mydata
 ```
 
 Prefer named volumes over bind mounts in production.
+
+## Continue.dev — Open-Source AI Extension
+
+VS Code / JetBrains extension for AI-assisted coding.
+
+### Key features
+- Tab autocomplete
+- Chat with codebase
+- Supports any LLM (OpenAI, Anthropic, Ollama, etc.)
+- Fully configurable via `config.json`
+
+### Why use it
+- Open source and self-hostable
+- Works with local models via Ollama
+- No vendor lock-in
