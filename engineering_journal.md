@@ -15,3 +15,9 @@ Found a good resource that explained this clearly.
 Spent some time studying Selection Sort today.
 
 The comparison between approaches was really helpful.
+
+## 2026-07-13
+
+Revisited CI/CD Basics and took better notes.
+
+Found a good resource that explained this clearly.
