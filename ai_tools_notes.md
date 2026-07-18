@@ -26,3 +26,6 @@ Output is clean and production-ready compared to most generators.
 - React + Tailwind + TypeScript stack
 - Better at frontend than backend logic
 - Iterative refinement via chat
+
+
+<!-- formatting -->
