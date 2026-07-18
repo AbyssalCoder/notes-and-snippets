@@ -12,3 +12,17 @@
 - Dashboard layouts
 
 Output is clean and production-ready compared to most generators.
+
+## Lovable — AI Full-Stack Builder
+
+### Features
+- Natural language to full-stack app
+- Supabase integration for backend
+- Real-time preview
+- Git-based version control
+
+### Observations
+- Good for MVPs and prototypes
+- React + Tailwind + TypeScript stack
+- Better at frontend than backend logic
+- Iterative refinement via chat
