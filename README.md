@@ -24,3 +24,12 @@ Topics covered today:
 - GitHub Actions
 - Docker Networking
 - Caching
+
+
+## Update — 2026-07-25
+
+Topics covered today:
+- Caching
+- CI/CD Basics
+- REST APIs
+- Load Balancers
