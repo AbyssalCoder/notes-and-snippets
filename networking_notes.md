@@ -34,3 +34,6 @@ Both sides must agree on initial sequence numbers to guarantee reliable, ordered
 FIN → ACK → FIN → ACK
 
 TCP is **connection-oriented** and **reliable** — it retransmits lost segments.
+
+
+<!-- snippet correction -->
