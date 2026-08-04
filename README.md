@@ -36,3 +36,12 @@ Topics covered today:
 
 
 <!-- indent fix -->
+
+
+## Update — 2026-08-04
+
+Topics covered today:
+- Pattern Printing
+- Git Rebase
+- Factorial
+- Docker Basics
