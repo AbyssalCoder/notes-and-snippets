@@ -100,3 +100,6 @@ docker rmi <image_id>                # Remove an image
 ```
 
 **Container ≠ VM** — containers share the host kernel.
+
+
+<!-- snippet correction -->
