@@ -45,3 +45,10 @@ Topics covered today:
 - Git Rebase
 - Factorial
 - Docker Basics
+
+
+## Update — 2026-08-15
+
+Topics covered today:
+- Load Balancers
+- Selection Sort
