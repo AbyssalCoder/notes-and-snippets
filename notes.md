@@ -223,3 +223,17 @@ print(bubble_sort([64, 34, 25, 12, 22, 11, 90]))
 ```
 
 Worst case O(n²), best case O(n) with early exit.
+
+## TCP Three-Way Handshake
+
+1. **SYN** — Client sends SYN with initial sequence number
+2. **SYN-ACK** — Server responds with its own SYN + ACK
+3. **ACK** — Client acknowledges, connection established
+
+### Why three steps?
+Both sides must agree on initial sequence numbers to guarantee reliable, ordered delivery.
+
+### Connection teardown (4-way)
+FIN → ACK → FIN → ACK
+
+TCP is **connection-oriented** and **reliable** — it retransmits lost segments.
