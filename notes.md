@@ -237,3 +237,18 @@ Both sides must agree on initial sequence numbers to guarantee reliable, ordered
 FIN → ACK → FIN → ACK
 
 TCP is **connection-oriented** and **reliable** — it retransmits lost segments.
+
+## Bolt.new — Full-Stack App Generator
+
+Browser-based AI that generates and deploys full-stack apps.
+
+### Strengths
+- Generates complete projects (frontend + backend)
+- Deploys instantly
+- Uses WebContainers (runs Node.js in browser)
+- Great for prototyping
+
+### Limitations
+- Can struggle with complex requirements
+- Limited backend options
+- Code quality varies
