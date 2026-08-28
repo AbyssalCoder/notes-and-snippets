@@ -55,3 +55,11 @@ Topics covered today:
 
 
 <!-- indent fix -->
+
+
+## Update — 2026-08-28
+
+Topics covered today:
+- File Handling
+- Docker Compose
+- VLAN Basics
