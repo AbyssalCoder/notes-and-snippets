@@ -120,3 +120,19 @@ docker rmi <image_id>                # Remove an image
 | 3xx   | Redirect      | 301 Moved        |
 | 4xx   | Client error  | 404 Not Found    |
 | 5xx   | Server error  | 500 Internal     |
+
+## Load Balancers
+
+Distribute incoming traffic across multiple servers.
+
+### Algorithms
+- **Round Robin** — rotate through servers
+- **Least Connections** — send to least busy
+- **IP Hash** — consistent routing by client IP
+- **Weighted** — proportional to server capacity
+
+### Layer 4 vs Layer 7
+- L4: routes based on IP/port (faster)
+- L7: routes based on HTTP content (smarter)
+
+Tools: Nginx, HAProxy, AWS ALB/NLB
