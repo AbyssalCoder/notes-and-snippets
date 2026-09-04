@@ -63,3 +63,10 @@ Topics covered today:
 - File Handling
 - Docker Compose
 - VLAN Basics
+
+
+## Update — 2026-09-04
+
+Topics covered today:
+- Load Balancers
+- Docker Networking
