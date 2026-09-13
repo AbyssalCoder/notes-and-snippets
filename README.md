@@ -70,3 +70,12 @@ Topics covered today:
 Topics covered today:
 - Load Balancers
 - Docker Networking
+
+
+## Update — 2026-09-13
+
+Topics covered today:
+- Git Branching
+- Palindrome
+- Git Rebase
+- GitHub Actions
