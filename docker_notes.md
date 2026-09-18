@@ -76,3 +76,21 @@ docker volume inspect mydata
 ```
 
 Prefer named volumes over bind mounts in production.
+
+## Docker Container Lifecycle
+
+```
+Created → Running → Paused → Stopped → Removed
+```
+
+```bash
+docker create --name myapp nginx     # Create
+docker start myapp                   # Start
+docker pause myapp                   # Pause
+docker unpause myapp                 # Unpause
+docker stop myapp                    # Stop (SIGTERM)
+docker kill myapp                    # Kill (SIGKILL)
+docker rm myapp                      # Remove
+```
+
+Use `docker exec -it myapp bash` to get a shell inside a running container.
