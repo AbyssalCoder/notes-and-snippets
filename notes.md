@@ -327,3 +327,18 @@ Fork of VS Code with deep AI integration.
 - Use `.cursorrules` to set project conventions
 - Reference files with `@filename` in chat
 - Composer mode for multi-file changes
+
+## Python Dictionary Practice
+
+```python
+# Word frequency counter
+text = 'the cat sat on the mat the cat'
+freq = {}
+for word in text.split():
+    freq[word] = freq.get(word, 0) + 1
+print(freq)  # {'the': 3, 'cat': 2, 'sat': 1, 'on': 1, 'mat': 1}
+
+# Using collections.Counter
+from collections import Counter
+print(Counter(text.split()))
+```
