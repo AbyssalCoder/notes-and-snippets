@@ -79,3 +79,10 @@ Topics covered today:
 - Palindrome
 - Git Rebase
 - GitHub Actions
+
+
+## Update — 2026-09-19
+
+Topics covered today:
+- Factorial
+- Reverse Proxies
