@@ -396,3 +396,6 @@ VS Code / JetBrains extension for AI-assisted coding.
 - Open source and self-hostable
 - Works with local models via Ollama
 - No vendor lock-in
+
+
+<!-- fixed typo -->
