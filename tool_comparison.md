@@ -32,3 +32,21 @@ gemini
 - Supports extensions (Google Search, etc.)
 
 Huge context window makes it good for analyzing large codebases.
+
+## OpenCommit — AI Commit Messages
+
+Generates meaningful commit messages from your staged changes.
+
+### Setup
+```bash
+npm install -g opencommit
+oco config set OCO_API_KEY=<key>
+```
+
+### Usage
+```bash
+git add .
+oco  # generates commit message from diff
+```
+
+Follows conventional commit format. Saves time on writing descriptive messages.
