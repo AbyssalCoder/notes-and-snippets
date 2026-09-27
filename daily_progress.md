@@ -130,3 +130,9 @@ def is_palindrome(s):
 ```
 
 Runs in O(n/2) comparisons with O(1) extra space.
+
+## 2026-09-27
+
+Explored Docker Containers — here are my notes.
+
+Need to practice this more — the edge cases tripped me up.
