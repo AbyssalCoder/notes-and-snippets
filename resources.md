@@ -21,3 +21,10 @@
 - W3Schools: https://www.w3schools.com/
 - freeCodeCamp: https://www.freecodecamp.org/
 - MDN Web Docs: https://developer.mozilla.org/
+
+## Resources — 2026-09-30
+
+### Useful links for Docker Networking
+
+- MDN Web Docs: https://developer.mozilla.org/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
