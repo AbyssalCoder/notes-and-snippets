@@ -86,3 +86,12 @@ Topics covered today:
 Topics covered today:
 - Factorial
 - Reverse Proxies
+
+
+## Update — 2026-10-06
+
+Topics covered today:
+- Docker Images
+- VLAN Basics
+- Caching
+- Load Balancers
