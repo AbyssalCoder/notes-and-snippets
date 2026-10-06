@@ -144,3 +144,6 @@ Always use `with` statements — they handle closing automatically.
 
 
 <!-- indent fix -->
+
+
+<!-- updated examples -->
