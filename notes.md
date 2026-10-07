@@ -486,3 +486,6 @@ Modular design — add toolkits for GitHub, Jira, etc.
 - React + Tailwind + TypeScript stack
 - Better at frontend than backend logic
 - Iterative refinement via chat
+
+
+<!-- indent fix -->
