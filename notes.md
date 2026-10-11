@@ -504,3 +504,6 @@ Modular design — add toolkits for GitHub, Jira, etc.
 - Dashboard layouts
 
 Output is clean and production-ready compared to most generators.
+
+
+<!-- updated examples -->
