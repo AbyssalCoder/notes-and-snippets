@@ -234,3 +234,9 @@ server {
 sudo nginx -t           # Test config
 sudo systemctl reload nginx  # Reload
 ```
+
+## 2026-10-11
+
+Deep dive into TCP Handshake.
+
+The hands-on practice made the theory click.
