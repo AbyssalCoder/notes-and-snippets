@@ -142,3 +142,9 @@ Need to practice this more — the edge cases tripped me up.
 
 
 <!-- indent fix -->
+
+## 2026-10-11
+
+Continued learning about Git Basics.
+
+Understanding the 'why' behind this made everything clearer.
