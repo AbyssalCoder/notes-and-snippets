@@ -28,3 +28,11 @@
 
 - MDN Web Docs: https://developer.mozilla.org/
 - GeeksforGeeks: https://www.geeksforgeeks.org/
+
+## Resources — 2026-10-12
+
+### Useful links for Exception Handling
+
+- Nginx docs: https://nginx.org/en/docs/
+- Python docs: https://docs.python.org/3/
+- Git documentation: https://git-scm.com/doc
