@@ -100,3 +100,24 @@ Use `docker exec -it myapp bash` to get a shell inside a running container.
 
 
 <!-- indent fix -->
+
+## Docker Images
+
+Images are read-only templates used to create containers.
+
+### Dockerfile example
+```dockerfile
+FROM python:3.11-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
+CMD ["python", "app.py"]
+```
+
+```bash
+docker build -t my-app:1.0 .
+docker run -p 8080:8080 my-app:1.0
+```
+
+Each instruction creates a layer — order matters for cache efficiency.
