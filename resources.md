@@ -36,3 +36,10 @@
 - Nginx docs: https://nginx.org/en/docs/
 - Python docs: https://docs.python.org/3/
 - Git documentation: https://git-scm.com/doc
+
+## Resources — 2026-10-19
+
+### Useful links for Linear Search
+
+- Docker docs: https://docs.docker.com/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
