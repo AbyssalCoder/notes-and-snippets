@@ -257,3 +257,23 @@ docker rmi <image_id>                # Remove an image
 ```
 
 **Container ≠ VM** — containers share the host kernel.
+
+## CI/CD Basics
+
+### Continuous Integration (CI)
+- Automatically build and test on every push
+- Catch bugs early
+- Run linters, formatters, tests
+
+### Continuous Delivery (CD)
+- Automatically deploy after CI passes
+- Staging → Production pipeline
+
+### Popular tools
+- GitHub Actions
+- GitLab CI
+- Jenkins
+- CircleCI
+- Travis CI
+
+A good pipeline: Lint → Test → Build → Deploy
