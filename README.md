@@ -95,3 +95,11 @@ Topics covered today:
 - VLAN Basics
 - Caching
 - Load Balancers
+
+
+## Update — 2026-10-23
+
+Topics covered today:
+- TCP Handshake
+- File Handling
+- Git Branching
