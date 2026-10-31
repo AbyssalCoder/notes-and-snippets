@@ -106,3 +106,12 @@ Topics covered today:
 
 
 <!-- formatting -->
+
+
+## Update — 2026-10-31
+
+Topics covered today:
+- Git Rebase
+- Docker Images
+- HTTPS
+- Docker Basics
