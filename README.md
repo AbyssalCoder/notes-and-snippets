@@ -115,3 +115,12 @@ Topics covered today:
 - Docker Images
 - HTTPS
 - Docker Basics
+
+
+## Update — 2026-11-02
+
+Topics covered today:
+- Caching
+- String Questions
+- Git Basics
+- Nested Loops
