@@ -148,3 +148,9 @@ Need to practice this more — the edge cases tripped me up.
 Continued learning about Git Basics.
 
 Understanding the 'why' behind this made everything clearer.
+
+## 2026-11-04
+
+Morning study session: Caching.
+
+Still need to work on the implementation details.
