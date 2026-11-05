@@ -78,3 +78,6 @@ Fork of VS Code with deep AI integration.
 - Use `.cursorrules` to set project conventions
 - Reference files with `@filename` in chat
 - Composer mode for multi-file changes
+
+
+<!-- indent fix -->
