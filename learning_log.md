@@ -277,3 +277,18 @@ docker rmi <image_id>                # Remove an image
 - Travis CI
 
 A good pipeline: Lint → Test → Build → Deploy
+
+## Git Basics
+
+```bash
+git init                        # Initialize repo
+git add .                       # Stage all changes
+git commit -m 'Initial commit'  # Commit
+git status                      # Check status
+git log --oneline               # Compact log
+git diff                        # Show unstaged changes
+git diff --staged               # Show staged changes
+```
+
+### Three areas
+Working Directory → Staging Area → Repository
