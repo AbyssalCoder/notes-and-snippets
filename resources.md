@@ -46,3 +46,11 @@
 
 
 <!-- updated examples -->
+
+## Resources — 2026-11-12
+
+### Useful links for HTTP
+
+- Nginx docs: https://nginx.org/en/docs/
+- freeCodeCamp: https://www.freecodecamp.org/
+- Docker docs: https://docs.docker.com/
