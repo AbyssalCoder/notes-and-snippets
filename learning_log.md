@@ -322,3 +322,9 @@ docker compose up -d
 docker compose logs -f
 docker compose down
 ```
+
+## 2026-11-18
+
+Spent some time studying Git Branching today.
+
+Still need to work on the implementation details.
