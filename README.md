@@ -124,3 +124,10 @@ Topics covered today:
 - String Questions
 - Git Basics
 - Nested Loops
+
+
+## Update — 2026-11-22
+
+Topics covered today:
+- Linux Commands
+- Array Traversal
