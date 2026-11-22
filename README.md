@@ -131,3 +131,6 @@ Topics covered today:
 Topics covered today:
 - Linux Commands
 - Array Traversal
+
+
+<!-- fixed typo -->
